@@ -108,3 +108,24 @@ init: cannot find '/system/bin/servicemanager', disabling 'servicemanager'
 init: cannot find '/system/bin/vold', disabling 'vold'
 init: cannot find '/system/bin/surfaceflinger', disabling 'surfaceflinger'
 init: cannot find '/system/bin/sh', disabling 'console'
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+binder: 765:765 transaction failed 29189, size 0-0
+
